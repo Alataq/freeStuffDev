@@ -9,7 +9,7 @@ tags = ["hosting"]
 Free account
 No credit card required
 No hidden fees
-Unlimited hosting
+5 gb storage
 Host any domain
 99.9% uptime
 Fastest free hosting
