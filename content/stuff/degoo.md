@@ -6,4 +6,4 @@ thumbnail = "https://degoo.com/apple-touch-icon.png?v=3eB5GjaPya"
 snippet="Expect more. Rediscover your memories with premium cloud storage. On Android, iOS and web."
 tags = ["storage"," cloud-storage"]
 +++
-Free 100 GB cloud space
+Free 20 GB cloud space
